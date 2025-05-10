@@ -36,8 +36,6 @@ This repository is a personal practice space where I write Python scripts to lea
 - `file_reader.py` — Reads content from a file.
 - `weather_app.py` — Fetches weather data from an API.
 
-*(You can add or remove these based on what you have)*
-
 ---
 
 ## 🛠️ Getting Started
